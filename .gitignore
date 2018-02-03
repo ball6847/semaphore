@@ -6,6 +6,7 @@ public/css/semaphore.css
 config.json
 .DS_Store
 node_modules
+vendor
 
 .idea/
 caddyfile
